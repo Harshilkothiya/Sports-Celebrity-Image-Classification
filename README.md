@@ -24,12 +24,8 @@ During the training process, **OpenCV** is used to detect and crop faces from th
 
 ## 🖼️ Application Preview
 
-> Add your application screenshot here.
-
-```text
-UI/images/Screenshot 2026-07-13 000603.jpg
-```
-
+>```
+![alt text](/UI/images/output.jpg)
 ---
 
 ## ✨ Highlights
